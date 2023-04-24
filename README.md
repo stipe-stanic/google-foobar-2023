@@ -1,4 +1,4 @@
 # google-foobar-2023
-Solutions to foobar challenges
+Google foobar is a "secret" invite-only challenge that is issued to users who searched for certain programming terms on the Google search engine.
 
-## work in progress
+## WORK IN PROGRESS
